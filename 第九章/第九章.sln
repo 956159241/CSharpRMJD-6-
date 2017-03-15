@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "区分类和结构", "区分类和结构\区分类和结构.csproj", "{0FCDF7A0-F4B6-45F1-A196-C8116A751F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCDF7A0-F4B6-45F1-A196-C8116A751F2C}.Debug|x86.ActiveCfg = Debug|x86
+		{0FCDF7A0-F4B6-45F1-A196-C8116A751F2C}.Debug|x86.Build.0 = Debug|x86
+		{0FCDF7A0-F4B6-45F1-A196-C8116A751F2C}.Release|x86.ActiveCfg = Release|x86
+		{0FCDF7A0-F4B6-45F1-A196-C8116A751F2C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+F:\C#入门经典代码练习\第九章\区分类和结构\bin\Debug\区分类和结构.exe
+F:\C#入门经典代码练习\第九章\区分类和结构\bin\Debug\区分类和结构.pdb
+F:\C#入门经典代码练习\第九章\区分类和结构\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#入门经典代码练习\第九章\区分类和结构\obj\x86\Debug\区分类和结构.exe
+F:\C#入门经典代码练习\第九章\区分类和结构\obj\x86\Debug\区分类和结构.pdb

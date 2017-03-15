@@ -1,0 +1,5 @@
+F:\C#入门经典代码练习\第二章\Test02_HelloWorld\bin\Debug\Test02_HelloWorld.exe
+F:\C#入门经典代码练习\第二章\Test02_HelloWorld\bin\Debug\Test02_HelloWorld.pdb
+F:\C#入门经典代码练习\第二章\Test02_HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#入门经典代码练习\第二章\Test02_HelloWorld\obj\x86\Debug\Test02_HelloWorld.exe
+F:\C#入门经典代码练习\第二章\Test02_HelloWorld\obj\x86\Debug\Test02_HelloWorld.pdb

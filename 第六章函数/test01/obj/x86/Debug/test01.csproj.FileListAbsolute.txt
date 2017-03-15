@@ -1,0 +1,5 @@
+F:\C#入门经典代码练习\第六章函数\test01\bin\Debug\test01.exe
+F:\C#入门经典代码练习\第六章函数\test01\bin\Debug\test01.pdb
+F:\C#入门经典代码练习\第六章函数\test01\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#入门经典代码练习\第六章函数\test01\obj\x86\Debug\test01.exe
+F:\C#入门经典代码练习\第六章函数\test01\obj\x86\Debug\test01.pdb

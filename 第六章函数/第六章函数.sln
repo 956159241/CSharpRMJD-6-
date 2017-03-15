@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test01", "test01\test01.csproj", "{A3C2F3DA-964A-4AF6-8F22-DB186627BF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "传递的参数能否改变", "传递的参数能否改变\传递的参数能否改变.csproj", "{97AD357C-64DC-463A-AC04-6B2B0EE7C7D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托用法的练习", "委托用法的练习\委托用法的练习.csproj", "{2529D076-0E82-4CCF-866D-C8E2CF55ABBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C2F3DA-964A-4AF6-8F22-DB186627BF3C}.Debug|x86.ActiveCfg = Debug|x86
+		{A3C2F3DA-964A-4AF6-8F22-DB186627BF3C}.Debug|x86.Build.0 = Debug|x86
+		{A3C2F3DA-964A-4AF6-8F22-DB186627BF3C}.Release|x86.ActiveCfg = Release|x86
+		{A3C2F3DA-964A-4AF6-8F22-DB186627BF3C}.Release|x86.Build.0 = Release|x86
+		{97AD357C-64DC-463A-AC04-6B2B0EE7C7D9}.Debug|x86.ActiveCfg = Debug|x86
+		{97AD357C-64DC-463A-AC04-6B2B0EE7C7D9}.Debug|x86.Build.0 = Debug|x86
+		{97AD357C-64DC-463A-AC04-6B2B0EE7C7D9}.Release|x86.ActiveCfg = Release|x86
+		{97AD357C-64DC-463A-AC04-6B2B0EE7C7D9}.Release|x86.Build.0 = Release|x86
+		{2529D076-0E82-4CCF-866D-C8E2CF55ABBD}.Debug|x86.ActiveCfg = Debug|x86
+		{2529D076-0E82-4CCF-866D-C8E2CF55ABBD}.Debug|x86.Build.0 = Debug|x86
+		{2529D076-0E82-4CCF-866D-C8E2CF55ABBD}.Release|x86.ActiveCfg = Release|x86
+		{2529D076-0E82-4CCF-866D-C8E2CF55ABBD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
