@@ -1,0 +1,5 @@
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit_19\EventRegistration\bin\EventRegistration.dll
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit_19\EventRegistration\bin\EventRegistration.pdb
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit_19\EventRegistration\obj\Debug\ResolveAssemblyReference.cache
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit_19\EventRegistration\obj\Debug\EventRegistration.dll
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit_19\EventRegistration\obj\Debug\EventRegistration.pdb
