@@ -1,0 +1,5 @@
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit21\Read\bin\Debug\Read.exe
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit21\Read\bin\Debug\Read.pdb
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit21\Read\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit21\Read\obj\x86\Debug\Read.exe
+F:\C#入门经典代码练习\CSharpRMJD-6-\Unit21\Read\obj\x86\Debug\Read.pdb
