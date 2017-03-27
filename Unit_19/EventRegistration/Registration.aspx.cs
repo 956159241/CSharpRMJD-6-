@@ -16,6 +16,7 @@ namespace EventRegistration
 
         protected void buttonSubmit_Click(object sender, EventArgs e)
         {
+        }
  
     }
 }

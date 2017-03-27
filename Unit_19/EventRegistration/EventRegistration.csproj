@@ -53,6 +53,7 @@
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.4.1.js" />
     <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="UpdatePanelDemo.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -83,6 +84,13 @@
     </Compile>
     <Compile Include="ResultsPage.aspx.designer.cs">
       <DependentUpon>ResultsPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePanelDemo.aspx.cs">
+      <DependentUpon>UpdatePanelDemo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpdatePanelDemo.aspx.designer.cs">
+      <DependentUpon>UpdatePanelDemo.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
