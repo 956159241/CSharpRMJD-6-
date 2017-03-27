@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2348602-f468-40f0-ad32-bc9934b85263" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unit_19/EventRegistration/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/Unit_19/EventRegistration/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unit_19/Unit_19.suo" afterPath="$PROJECT_DIR$/Unit_19/Unit_19.suo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Unit_19/EventRegistration/EventRegistration.csproj" afterPath="$PROJECT_DIR$/Unit_19/EventRegistration/EventRegistration.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,6 +48,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -65,7 +64,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,11 +146,21 @@
       <updated>1489541910116</updated>
       <workItem from="1489541914675" duration="246000" />
       <workItem from="1489729079669" duration="185000" />
+      <workItem from="1490603901595" duration="66000" />
+      <workItem from="1490604171724" duration="6000" />
     </task>
+    <task id="LOCAL-00001" summary="加入了C#入门经典的官方代码">
+      <created>1490603956482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490603956482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="431000" />
+    <option name="totallyTimeSpent" value="503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -181,6 +189,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="加入了C#入门经典的官方代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入了C#入门经典的官方代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
